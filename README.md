@@ -1,6 +1,10 @@
 # Loan-Visualization
-This repository is created by Prayoga Agusto Haradi from batch HCK-004 from Hacktiv8 for the purpose of Talent Fair 5.
+## This repository is created by Prayoga Agusto Haradi from batch HCK-004 from Hacktiv8 for the purpose of Talent Fair 5.
+
+
 [Tableau](https://public.tableau.com/app/profile/prayoga.haradi/viz/TalentFair5Final/Dashboard2?publish=yes) dashboard can be found here.
+
+
 This project focuses on exploring a loan dataset from a certain company and visualizing it in Python using its libraries and Tableau dashboard.
 
 The general objective of this repository is to see if there is any useful insights that a loan company could use to see if there are a specific variables that can help in determining if a loan should be approved or not, and to see if there are any potential from a certain demographic group that the loan company can capitalize on.
